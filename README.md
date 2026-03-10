@@ -1,3 +1,5 @@
+#### Fork de https://github.com/digitalinnovationone/copilot-prompts
+
 # Projeto-Roteiro-de-Carreira-com-a-Ajuda-de-IA
 🧩 VISÃO DO DIA A DIA
 Como é o trabalho de um(a) Especialista em IA Aplicada (No-Code / Prompt Engineering):
